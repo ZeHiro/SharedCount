@@ -1,5 +1,5 @@
 {
-  "name": "cozycount",
+  "name": "SharedCount",
   "version": "1.0.0",
   "engines": [
     "node = 0.10.x"
@@ -28,9 +28,9 @@
     "start": "node server.js"
   },
   "cozy-permissions": {
-	  "Count": {
-		  "description": "Create and manage your count"
+	  "SharedCount": {
+		  "description": "Create and manage your shared count"
 	  }
   },
-  "cozy-displayName": "Count"
+  "cozy-displayName": "SharedCount"
 }
