@@ -28,7 +28,7 @@
     "start": "node server.js"
   },
   "cozy-permissions": {
-	  "SharedCount": {
+	  "Shared-count": {
 		  "description": "Create and manage your shared count"
 	  }
   },

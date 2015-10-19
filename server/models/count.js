@@ -2,7 +2,7 @@
 
 var cozydb = require('cozydb');
 
-var CountModel = cozydb.getModel('SharedCount', {
+var CountModel = cozydb.getModel('Shared-count', {
   name:					String,
   description:	String,
 	allExpenses:	{type: Number, default: 0},
