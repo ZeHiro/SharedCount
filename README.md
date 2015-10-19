@@ -1,19 +1,7 @@
 # Description
 
-Cozy Template is a Javascript template project to start quickly your own 
-application.
+SharedCount make your project spending easy to manage betwen the members.
 
-Do you feel lost? No problem, check out our tutorial to get your started: 
-http://cozy.io/hack/getting-started/
-
-# Run
-
-Clone this repository, install dependencies and run server (it requires Node.js)
-
-    git clone git://github.com/cozy/cozy-template.git
-    cd cozy-template
-    npm install
-    node server.js
 
 ## What is Cozy?
 
